@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit secrets (never upload passwords/keys)
+.streamlit/secrets.toml
+
+# Run logs and temp artifacts
+streamlit_log.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
